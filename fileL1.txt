@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change for conflict
+=======
+change file again
+>>>>>>> 1a9d9aa063ef11e3dc276e98e149f6ea7ed14e10
